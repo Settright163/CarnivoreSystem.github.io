@@ -1,0 +1,36 @@
+.contenedor{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    padding:10px 50px;
+    margin: 20px;
+    flex:1;
+}
+section{
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-around; 
+}
+img{
+    height: 200px;
+    width: 200px;
+    box-shadow: 2px 2px yellowgreen
+}
+.integrante{
+    font-size:25px;
+    color:green;
+}
+.integrante:hover{
+    font-size: 30px;
+    color:yellowgreen;
+    text-decoration: underline;
+}
+.title{
+    color:white;
+    text-align: center;
+    font-size:40px;
+    color:yellowgreen;
+    text-decoration: underline;
+}

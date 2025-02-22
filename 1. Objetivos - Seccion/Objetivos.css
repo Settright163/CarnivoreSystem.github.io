@@ -1,0 +1,28 @@
+.title{
+    font-size:35px;
+    font-weight: 600px;
+    margin-bottom: 20px;
+    color:white;
+    text-align: center;
+    line-height: 35px;
+}
+.parrafo, ul li{
+    font-size: 25px;
+    font-weight: 400;
+}
+.materia{
+    text-decoration: underline;
+    color:yellowgreen;
+    font-size:35px;
+    text-align: center;
+}
+.contenedor{
+    margin:50px
+}
+.contenedor div{
+    margin: 30px;
+}
+.objetivo li:hover{
+    list-style: circle;
+    color: yellowgreen
+}

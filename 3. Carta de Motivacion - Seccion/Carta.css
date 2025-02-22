@@ -1,0 +1,19 @@
+.parrafo{
+    font-size:25px;
+    color:white;
+    line-height: 45px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#carta{
+    margin: 30px 80px;
+}
+.title, strong{
+    font-family: 'Times New Roman', Times, serif;
+}
+#integrantes li{
+    margin:20px;
+    list-style: circle;
+}
+#moti{
+    color:yellowgreen
+}
